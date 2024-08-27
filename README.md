@@ -15,6 +15,6 @@ Butter
 Bread
 Knife
 ```
-1. Football\
-    -Net\
-    -Ground
+1. Football
+    -Net
+     -Ground
