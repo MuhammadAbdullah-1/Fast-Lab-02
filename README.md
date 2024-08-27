@@ -1,2 +1,5 @@
 # Fast-Lab-02
-*Fast Lab 3*
+**This Text Is Bold**
+*This Text Is Italic*
+***This Text Is Bold***
+~~OOPS I made an error~~
